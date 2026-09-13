@@ -28,31 +28,31 @@ Các thông tin cần nhập gồm:
 
 ### Giao diện chương trình
 
-![Giao diện chương trình](giaodien.png)
+![Giao diện chương trình](images/giaodien.png)
 
 ### Kết quả chương trình
 
-![Kết quả chương trình](hienthi.png)
+![Kết quả chương trình](images/hienthi.png)
 
 ### Giao diện thoát
 
-![Giao diện thoát](thoat.png)
+![Giao diện thoát](images/thoat.png)
 
 ## Các trường hợp nhập dữ liệu không hợp lệ
 
 ### Nhập thiếu thông tin
 
-![Nhập thiếu họ tên](thieuhoten.png)
+![Nhập thiếu họ tên](images/thieuhoten.png)
 
-![Nhập thiếu năm sinh](thieunamsinh.png)
+![Nhập thiếu năm sinh](images/thieunamsinh.png)
 
-![Nhập thiếu email](thieuemail.png)
+![Nhập thiếu email](images/thieuemail.png)
 
-![Nhập thiếu giới tính](thieugioitinh.png)
+![Nhập thiếu giới tính](images/thieugioitinh.png)
 
-![Nhập thiếu khoa/lớp](thieukhoalop.png)
+![Nhập thiếu khoa/lớp](images/thieukhoalop.png)
 
 ### Nhập thông tin không hợp lệ
-![Nhập email không hợp lệ](emailsai.png)
+![Nhập email không hợp lệ](images/emailsai.png)
 
-![Nhập năm sinh không hợp lệ](namsinhsai.png)
+![Nhập năm sinh không hợp lệ](images/namsinhsai.png)
