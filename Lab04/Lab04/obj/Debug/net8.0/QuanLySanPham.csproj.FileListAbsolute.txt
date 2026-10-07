@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\bin\Debug\net8.0\QuanLySanPham.exe
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\bin\Debug\net8.0\QuanLySanPham.deps.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\bin\Debug\net8.0\QuanLySanPham.runtimeconfig.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\bin\Debug\net8.0\QuanLySanPham.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\bin\Debug\net8.0\QuanLySanPham.pdb
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.sourcelink.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\refint\QuanLySanPham.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.pdb
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySanPham.genruntimeconfig.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\ref\QuanLySanPham.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab04\Lab04\obj\Debug\net8.0\QuanLySa.403F42C1.Up2Date
