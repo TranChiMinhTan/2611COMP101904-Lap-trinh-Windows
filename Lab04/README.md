@@ -389,7 +389,7 @@ Class `Program` chứa phương thức `Main()` và điều khiển luồng chí
 
 ## 5. Menu chương trình
 
-![Giao diện chương trình](images/giaodien.png)
+![Giao diện chương trình](images/menu.png)
 
 Menu của chương trình:
 
