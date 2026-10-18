@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.AssemblyInfo.cs
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.sourcelink.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\bin\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.exe
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\bin\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.deps.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\bin\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.runtimeconfig.json
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\bin\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\bin\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.pdb
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\refint\COMP1019_Lab09_StudentCard.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.pdb
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019_Lab09_StudentCard.genruntimeconfig.cache
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\ref\COMP1019_Lab09_StudentCard.dll
+C:\Users\Admin\source\repos\2611COMP101904-Lap-trinh-Windows\Lab09\Lab09\obj\Debug\net8.0-windows\COMP1019.49B8CEA3.Up2Date
