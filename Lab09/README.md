@@ -231,13 +231,13 @@ Bài Lab yêu cầu tối thiểu 8 test case được tự kiểm thử. Bảng
 
 **Kết quả in thử:**
 
-![Thẻ sinh viên sau khi in thử](images/ketquatin1.png)
+![Thẻ sinh viên sau khi in thử](images/ketquain1.png)
 
-![Thẻ sinh viên sau khi in thử](images/ketquatin2.png)
+![Thẻ sinh viên sau khi in thử](images/ketquain2.png)
 
-![Thẻ sinh viên sau khi in thử](images/ketquatin3.png)
+![Thẻ sinh viên sau khi in thử](images/ketquain3.png)
 
-![Thẻ sinh viên sau khi in thử](images/ketquatin4.png)
+![Thẻ sinh viên sau khi in thử](images/ketquain4.png)
 
 ## 9. Cấu trúc thư mục
 
