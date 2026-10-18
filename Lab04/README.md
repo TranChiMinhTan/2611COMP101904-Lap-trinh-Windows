@@ -447,7 +447,7 @@ Nhập từ khóa cần tìm.
 Ví dụ:
 
 ```text
-Tu khoa: Ryzen 5 7500f
+Tu khoa: Tai nghe khong day
 ```
 
 Chương trình hiển thị các sản phẩm có tên chứa từ khóa.
@@ -585,7 +585,7 @@ Nhập mã sản phẩm không có trong danh sách.
 Ví dụ:
 
 ```text
-Mã sản phẩm: SP999
+Mã sản phẩm: SP99
 ```
 
 Chương trình phát sinh:
