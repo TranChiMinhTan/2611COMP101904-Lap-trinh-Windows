@@ -34,22 +34,31 @@ Mật khẩu trong `TAIKHOAN` được lưu dạng băm SHA-256, không lưu m�
 
 ## 5. Kết quả mong đợi của một số truy vấn
 **Liệt kê sinh viên kèm tên lớp và tên khoa**
+
 ![Danh sách sinh viên](images/cau2.png)
 
 **Cập nhật họ tên hoặc lớp của một sinh viên**
+
 ![Cập nhật sinh viên](images/cau5.png)
 
 **Xóa một sinh viên chưa có dữ liệu điểm**
+
 ![Xóa sinh viên](images/cau6.png)
 
 **Tính điểm trung bình của từng sinh viên**
+
 ![Điểm trung bình](images/cau8.png)
 
 **Thống kê số sinh viên theo từng lớp**
+
 ![Thống kê sinh viên](images/cau9.png)
 
 **Test lỗi khi thêm sinh viên vào lớp không tồn tại**
+
 ![Lỗi FK](images/cau11.png)
 
 **Test lỗi khi thêm kết quả với điểm không hợp lệ**
-![Lỗi CHECK](images/cau12.png)
+
+![Lỗi CHECK](images/cau12a.png)
+
+![Lỗi CHECK](images/cau12b.png)
