@@ -43,13 +43,13 @@ ConnectionString =
 
 ### Form quản lý lớp học
 
-![Form quản lý lớp học](images/form-quan-ly-lop.png)
+![Form quản lý lớp học](images/form-quan-ly-lop-hoc.png)
 
 ### Kết quả thêm, sửa hoặc tìm kiếm lớp
 
 ![Kết quả xử lý dữ liệu](images/themlop.png)
 
-![Kết quả tìm kiếm lớp](images/timkiem.png)
+![Kết quả tìm kiếm lớp](images/timkiemlop.png)
 
 ![Kết quả sửa lớp](images/sualop.png)
 
