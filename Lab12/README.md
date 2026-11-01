@@ -90,13 +90,13 @@ Form chính: `FrmNhapDiemTheoLop`
 
 ![Database](images/database.png)
 
-![Stored Procedure](images/storedprocedure1.png)
+![Stored Procedure](images/StoredProcedure1.png)
 
-![Stored Procedure](images/storedprocedure2.png)
+![Stored Procedure](images/StoredProcedure2.png)
 
-![Stored Procedure](images/storedprocedure3.png)
+![Stored Procedure](images/StoredProcedure3.png)
 
-![Stored Procedure](images/storedprocedure4.png)
+![Stored Procedure](images/StoredProcedure4.png)
 
 ## 7. Cấu trúc project
 
