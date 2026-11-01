@@ -98,40 +98,6 @@ Form chính: `FrmNhapDiemTheoLop`
 
 ![Stored Procedure](images/StoredProcedure4.png)
 
-## 7. Cấu trúc project
-
-```text
-Lab12/
-├── QLSinhVienLab12/
-│   ├── Forms/
-│   │   └── FrmNhapDiemTheoLop.cs
-│   ├── DAL/
-│   │   ├── Database.cs
-│   │   └── KetQuaDAL.cs
-│   └── Program.cs
-│
-├── Database/
-│   └── QLSinhVienLab12.sql
-│
-├── images/
-│   ├── form-nhap-diem.png
-│   ├── danh-sach-sinh-vien.png
-│   ├── luu-diem-thanh-cong.png
-│   ├── rollback-loi.png
-│   └── database-stored-procedure.png
-│
-└── README.md
-```
-
-## 8. Hướng dẫn chạy chương trình
-
-1. Mở SSMS và chạy file `QLSinhVienLab12.sql`.
-2. Mở project bằng Visual Studio.
-3. Cài package `Microsoft.Data.SqlClient`.
-4. Cấu hình connection string trong `Database.cs`.
-5. Chạy chương trình bằng `F5` hoặc `Ctrl + F5`.
-6. Chọn lớp, môn học, tải danh sách và nhập điểm để kiểm tra.
-
-## 9. Kết luận
+## 7. Kết luận
 
 Bài lab giúp sinh viên thực hành Data Binding, Stored Procedure và Transaction trong C# WinForms. Qua đó, hiểu cách liên kết dữ liệu với giao diện và bảo đảm tính toàn vẹn khi lưu nhiều kết quả học tập cùng lúc.
